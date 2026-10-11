@@ -30,6 +30,10 @@ A Fabric mod for Minecraft 26.3 that adds cozy, usable furniture and accessories
 
 See [LICENSE](LICENSE). Modpacks may include an unmodified release with credit and a link to this project. Standalone reuploads, forks, and reuse of the mod's assets outside a modpack are not permitted without written permission.
 
+## AI USE
+
+AI tools were used during the development of this mod to help with programming, debugging, troubleshooting, and explaining Minecraft/Fabric code. All code and features are reviewed, tested, and integrated by the mod author. AI is used as a development tool and does not replace the author's work or decision-making. The models, textures, furniture designs, and overall direction of the mod are created and managed by the mod author.
+
 ## Credits
 
 Created by DaddyZOY.
